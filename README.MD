@@ -1,1 +1,1 @@
-# Cornell Quantum Computing Association
+# CU QCA Fall Fest 2023
