@@ -11,54 +11,44 @@ To recieve the most up to date information on CU QCA and Fall Fest 2023, join th
 Feel free to email cuquantumcomputing@gmail.com with any questions, or post a question in our Discord server.
 
 ## Event agenda
-*10-10:45*:
-
-Kickoff for Qiskit Fall Fest
-- Intro to the Quantum Computing Association
-- A brief introduction to the field of quantum computing
-- Intro to Qiskit
-
-
-*10:45-12*:
-
-Introduction to our Challenge Tracks
-- "Qubit" (Level 1)
-- "Schrödinger's Cat" (Level 2)
-- "Superposition" (Level 3)
-
-Guided Setup of Qiskit Environment
-
-**Start on Challenge Track Notebooks!**
+*10-10:45am*
+- Kickoff for Qiskit Fall Fest
+  - Intro to the Quantum Computing Association
+  - A brief introduction to the field of quantum computing
+  - Intro to Qiskit
 
 
-*12-1*:
-
-Lunch (provided for free)
-
-Social Activity
-
-
-*1-2:30*:
-
-**Continue with Challenge Track Notebooks!**
+*10:45-12pm*
+- Introduction to our Challenge Tracks
+  - "Qubit" (Level 1)
+  - "Schrödinger's Cat" (Level 2)
+  - "Superposition" (Level 3)
+- Guided Setup of Qiskit Environment
+- **Start on Challenge Track Notebooks!**
 
 
-*2:30-3:30*:
-
-Special Topics (voting to choose what to discuss, see example topics below)
-- Physical realizations of qubits
-- Applications of quantum computing
+*12-1pm*
+- Lunch (provided for free)
+- Social Activity
 
 
-*3:30-3:45*:
+*1-2:30pm*
+- **Continue with Challenge Track Notebooks!**
 
-Quantum Trivia Quiz
+
+*2:30-3:30pm*
+- Special Topics (voting to choose what to discuss, see example topics below)
+  - Physical realizations of qubits
+  - Applications of quantum computing
 
 
-*3:45-4*:
+*3:30-3:45pm*
+- Quantum Trivia Quiz
 
-Closing Remarks
-- Recap of what we did/learned
-- Distribute prizes
-- Next steps for QCA members
-- Further resources in the field
+
+*3:45-4pm*
+- Closing Remarks
+  - Recap of what we did/learned
+  - Distribute prizes
+  - Next steps for QCA members
+  - Further resources in the field
