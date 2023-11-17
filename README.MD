@@ -19,7 +19,7 @@ Feel free to email cuquantumcomputing@gmail.com with any questions, or post a qu
 
 
 **10:45-12pm**
-- Introduction to our Challenge Tracks
+- Introduction to our Challenge Tracks (3 Levels of Difficulty)
   - "Qubit" (Level 1)
   - "Schrödinger's Cat" (Level 2)
   - "Superposition" (Level 3)
