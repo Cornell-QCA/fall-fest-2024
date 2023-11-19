@@ -6,7 +6,7 @@ The Qiskit [kiss-kit] Fall Fest is a mixture of hackathons, challenges, and work
 Our Fall Fest event will involve guided challenges & workshops. It will be held in-person on the Cornell Ithaca campus in Phillips 203, from 10am-4pm. All guided challenges will be written in Python using Qiskit.
 
 ## How to Participate
-To recieve the most up to date information on CU QCA and Fall Fest 2023, join the [Discord](https://discord.gg/tX7ZsjQJGx) and sign up for the [listserv](https://docs.google.com/forms/d/e/1FAIpQLSeC_YjXq4ajmspla6LA_tuj1IKnx6uSvHGEtzWEt9rH7PT_Fg/viewform) (both for Cornell University students only). Discord is our main method of communication.
+To recieve the most up to date information on CU QCA and Fall Fest 2023, join the [listserv](https://docs.google.com/forms/d/e/1FAIpQLSeC_YjXq4ajmspla6LA_tuj1IKnx6uSvHGEtzWEt9rH7PT_Fg/viewform) (for Cornell University students only), at which point you'll receive an invite to our Discord server. Discord is our main method of communication.
 
 Feel free to email cuquantumcomputing@gmail.com with any questions, or post a question in our Discord server.
 
