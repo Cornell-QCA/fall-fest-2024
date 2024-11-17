@@ -3,7 +3,9 @@ Welcome to the CU Quantum Computing Association's Qiskit Fall Fest event page!
 ## What is Fall Fest?
 The Qiskit [kiss-kit] Fall Fest is a mixture of hackathons, challenges, and workshops related to quantum computing, held at various universities around the world. We are proud to be supported by IBM Quantum and their quantum software development kit, Qiskit.
 
-Our Fall Fest event will involve guided challenges & workshops. It will be held in-person on the Cornell Ithaca campus in Rockefeller 122, from 1-6pm on November 17. All guided challenges will be written in Python using Qiskit.
+Our Fall Fest event will involve [guided challenges](https://drive.google.com/drive/folders/1ZOXZsIZTg4vaiViENLd0B-6fOt7QC7BN?usp=sharing) & workshops. It will be held in-person on the Cornell Ithaca campus in Rockefeller 122, from 1-6pm on November 17. All guided challenges will be written in Python using Qiskit.
+
+[Click Here](https://drive.google.com/drive/folders/1ZOXZsIZTg4vaiViENLd0B-6fOt7QC7BN?usp=sharing) to access the guided challenges 
 
 ## How to Participate
 To recieve the most up to date information on CU QCA and Fall Fest 2024, join our [Discord server](https://discord.gg/HT5wWmFSGT).
